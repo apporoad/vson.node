@@ -1,0 +1,6 @@
+[submodule "vson.node.frontend"]
+	path = vson.node.frontend
+	url = https://github.com/apporoad/vson.node.frontend.git
+[submodule "vson.node.backend"]
+	path = vson.node.backend
+	url = https://github.com/apporoad/vson.node.backend.git

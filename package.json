@@ -1,0 +1,19 @@
+{
+  "name": "vson.node",
+  "version": "1.0.0",
+  "description": "vson node implement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/vson.node.git"
+  },
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/vson.node/issues"
+  },
+  "homepage": "https://github.com/apporoad/vson.node#readme"
+}
